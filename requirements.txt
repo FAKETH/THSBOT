@@ -1,0 +1,8 @@
+discord
+Pillow
+requests
+coloredlogs
+discord-components
+asyncio
+
+
